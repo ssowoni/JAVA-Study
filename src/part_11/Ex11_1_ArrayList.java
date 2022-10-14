@@ -2,9 +2,9 @@ package part_11;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.List;
 
-public class Ex11_1 {
+
+public class Ex11_1_ArrayList {
     public static void main(String[] args) {
         //ArrayList 는 저장순서가 유지되고 중복을 허용한다.
         //ArrayList는 Object 배열을 이용해 데이터를 순차적으로 저장한다.

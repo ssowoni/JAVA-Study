@@ -1,4 +1,4 @@
-package ch_11;
+package ch_11.list;
 
 import java.util.Arrays;
 import java.util.Comparator;

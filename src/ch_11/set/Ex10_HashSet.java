@@ -1,4 +1,4 @@
-package ch_11;
+package ch_11.set;
 
 public class Ex10_HashSet {
 

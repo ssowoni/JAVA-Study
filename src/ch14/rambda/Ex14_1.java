@@ -25,7 +25,6 @@ public class Ex14_1 {
 		
 		MyFunction f3 = getMyFunction();
 		
-		
 		f1.run();
 		f2.run();
 		f3.run();

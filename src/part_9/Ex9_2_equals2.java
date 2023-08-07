@@ -1,7 +1,8 @@
 package part_9;
 
-import javax.naming.Name;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Objects;
+import java.util.Set;
 
 public class Ex9_2_equals2 {
 
@@ -11,6 +12,9 @@ public class Ex9_2_equals2 {
         Set<Person> persons = new HashSet<>();
         persons.add(new Person(8011L));
         persons.add(new Person(8011L));
+        
+        
+        
         System.out.println(persons.size());
 
     }
